@@ -1,0 +1,11 @@
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\bin\Debug\SingletonCSharp.exe.config
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\bin\Debug\SingletonCSharp.exe
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\bin\Debug\SingletonCSharp.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\bin\Debug\SingletonLibrary.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\bin\Debug\SingletonLibrary.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\obj\Debug\TestConnection.csprojResolveAssemblyReference.cache
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\obj\Debug\SingletonCSharp.exe
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonCSharp\obj\Debug\SingletonCSharp.pdb
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\SingletonCSharp\bin\Debug\SingletonCSharp.exe.config
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\SingletonCSharp\obj\Debug\SingletonCSharp.exe
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\SingletonCSharp\obj\Debug\SingletonCSharp.pdb

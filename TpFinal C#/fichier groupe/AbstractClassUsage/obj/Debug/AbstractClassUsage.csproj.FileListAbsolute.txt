@@ -1,0 +1,14 @@
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\AbstractClassUsage.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\AbstractClassUsage.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\SingletonLibrary.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\bin\Debug\SingletonLibrary.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\AbstractClassUsage\obj\Debug\AbstractClassUsage.csprojResolveAssemblyReference.cache
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\bin\Debug\AbstractClassUsage.dll
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\bin\Debug\AbstractClassUsage.pdb
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\bin\Debug\SingletonLibrary.dll
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\bin\Debug\SingletonLibrary.pdb
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\obj\Debug\AbstractClassUsage.csprojResolveAssemblyReference.cache
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\obj\Debug\AbstractClassUsage.dll
+C:\Users\MARTIN\3D Objects\CSharp\GROUPE13\AbstractClassUsage\obj\Debug\AbstractClassUsage.pdb
